@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ---
 
-## [0.1.0] - 2021-01-13
+## [0.1.0] - 2021-01-20
 ### Added
 - Base scripts of the tool, ScriptableEvent and ScriptableEventListener for events with none, one or two parameters.
 - Sample folder with basic event and listener types (int, float, string and bool).
