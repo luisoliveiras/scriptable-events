@@ -23,7 +23,7 @@ Open the project manifest file under the Packages folder and add these lines to 
 
 ##### On Unity 2019.3 and above:
 Open the package manager on _**Window > Package Manager**_ and select the **+** button and click on the **Add package from git URL...** option.
-- Add the ScriptableStates package from: https://github.com/luisoliveiras/scriptable-states.git
+- Add the ScriptableEvents package from: https://github.com/luisoliveiras/scriptable-events.git
 
 _\** You can also add it from disk if you want, just follow the steps from 2018.4 install guide._
 
